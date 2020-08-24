@@ -2,7 +2,7 @@
 # _Introduction to Q#: A high level quantum development language for everyone_ 
 ### Seminar for the [International Graduate School for Quantum Technologies](https://igsqt.ac.uk/events/) | 24 August 2020
 
-> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](TODO)
+> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/isgqt-qsharp-intro/master?filepath=demo.ipynb)
 > 
 <!-- > The video for this presentation can be found on [YouTube](https://youtu.be/nMiSHq_FuT0) -->
 
